@@ -17,8 +17,7 @@ function add() {
 
     else {
         objetos.push(input);
-        order();
-
+  
     }
     console.log(objetos);
     inputElement.value = "";
